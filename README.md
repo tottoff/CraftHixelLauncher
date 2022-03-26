@@ -4,9 +4,9 @@
 
 <p align="center">Launcher Custom Pour le serveur ForestiaMC </p>
 
-![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
-![Screenshot 2](https://i.imgur.com/x3B34n1.png)
-
+![Screenshot 1](https://i.imgur.com/2oCSCAD.png)
+![Screenshot 2](https://i.imgur.com/IsaUoUI.png)
+![Screenshot 3](https://i.imgur.com/Am6HJnO.png)
 ## Features
 
 * 🔒 Full account management.
