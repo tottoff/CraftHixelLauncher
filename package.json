@@ -1,7 +1,7 @@
 {
-  "name": "helioslauncher",
-  "version": "1.9.0",
-  "productName": "Helios Launcher",
+  "name": "CraftHixel-launcher",
+  "version": "2.9.0",
+  "productName": "CraftHixel Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",

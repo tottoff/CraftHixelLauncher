@@ -1,0 +1,16 @@
+{
+    "APP_DISPLAY_NAME": "CraftHixel Launcher",
+
+  
+    "WEBSITE_ENABLE": true,
+    "WEBSITE_URL": "https://forestia-pvp.fr",
+    "TWITTER_ENABLE": true,
+    "TWITTER_URL": "https://twitter.com/modrealms",
+    "INSTAGRAM_ENABLE": false,
+    "INSTAGRAM_URL": "#",
+    "YOUTUBE_ENABLE": true,
+    "YOUTUBE_URL": "https://www.youtube.com/channel/UCx_iGrTo1z_ZuOf2w_Lfl1Q",
+    "DISCORD_ENABLE": true,
+    "DISCORD_URL": "https://modrealms.net/discord"
+  
+  }
