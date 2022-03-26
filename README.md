@@ -7,7 +7,7 @@
 ![Screenshot 1](https://i.imgur.com/2oCSCAD.png)
 ![Screenshot 2](https://i.imgur.com/IsaUoUI.png)
 ![Screenshot 3](https://i.imgur.com/Am6HJnO.png)
-## Features
+## Fonctionnalité
 
 * 🔒 Gestion complète du compte.
   * Ajoutez plusieurs comptes et passez facilement de l'un à l'autre.
