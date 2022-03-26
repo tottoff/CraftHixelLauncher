@@ -11,7 +11,7 @@
 
 * 🔒 Gestion complète du compte.
   * Ajoutez plusieurs comptes et passez facilement de l'un à l'autre.
-  * Microsoft (OAuth 2.0) + Mojang (Yggdrasil) aauthentification entièrement prise en charge. 
+  * Microsoft (OAuth 2.0) + Mojang authentification entièrement prise en charge. 
   * Les informations d'identification ne sont jamais stockées et transmises directement à Mojang.
 * ☕ **Validation Java automatique.**
   * Si vous avez installé une version incompatible de Java, nous installerons la bonne *pour vous*.
